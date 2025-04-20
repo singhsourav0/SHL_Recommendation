@@ -9,7 +9,6 @@ import numpy as np
 import google.generativeai as genai
 
 from rag_recommender.modules.ingestion import load_assessments
-import os
 genai.configure(api_key=os.getenv("GENAI_API_KEY"))
 
 # Setup
