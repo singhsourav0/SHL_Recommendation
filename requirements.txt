@@ -1,5 +1,7 @@
-flask
 faiss-cpu
-numpy
 google-generativeai
-gunicorn
+pickle
+Flask==3.1.0
+gunicorn==23.0.0
+numpy==2.2.4
+pandas==2.2.3
