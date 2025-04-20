@@ -100,7 +100,7 @@ A simple Flask-based web interface i developed to enable interaction with the mo
 ```json
 {
   "results": [
-    "Smart Interview On Demand | Type: Personality & Behavior | Remote: Yes | Adaptive: No | Length: 45 mins"
+    "Android Development (New) | Type: Knowledge & Skills | Remote: Yes | Adaptive: No | length: 7.0"
   ]
 }
 ```
